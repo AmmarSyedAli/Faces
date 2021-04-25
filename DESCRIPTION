@@ -1,0 +1,16 @@
+Package: Faces
+Title: Print out text based faces
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Ammar",
+           family = "Ali",
+           role = c("aut", "cre"),
+           email = "ammarali@usf.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package will print to console various different faces, including
+    happy faces, sad faces, angry face, among others..
+License: CCO
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1.9001
